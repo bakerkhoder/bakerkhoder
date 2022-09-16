@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://bakerkhoder.io)
 <h1 align="center">Hi 👋, I'm Baker Khoder</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 📫 How to reach me **bakerkhoder878@gmail.com**
 
